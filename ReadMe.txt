@@ -1,3 +1,7 @@
+EDIT: I DID NOT WRITE THIS. This was done by Shawn Overcash. Made this repo to have this amazing game available to all. 
+
+
+
 Well, this is the Decker source code. I wrote it for myself, so it may be a little confusing. I will try to outline what is in each directory.
 
 Directory - Contents
